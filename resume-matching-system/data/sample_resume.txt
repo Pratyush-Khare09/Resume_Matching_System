@@ -1,0 +1,11 @@
+Pratyush Khare
+Skills:
+Python, Java, SQL, HTML, CSS, Machine Learning, Data Analysis
+
+Education:
+B.Tech in Computer Science (IoT)
+Noida Institute of Engineering and Technology
+
+Projects:
+Student Management System using Python
+Website using HTML and CSS

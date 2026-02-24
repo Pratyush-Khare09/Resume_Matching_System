@@ -1,0 +1,11 @@
+Job Role: Data Scientist Intern
+
+Required Skills:
+Python
+SQL
+Machine Learning
+Deep Learning
+Data Analysis
+Statistics
+Pandas
+Numpy
